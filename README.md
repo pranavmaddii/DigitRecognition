@@ -15,7 +15,7 @@ This project implements a neural network model to recognize handwritten digits u
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/pranavmaddii/DigitRecognition.git
    cd your-repo-name
 2. **Create and activate a virtual environment (optional but recommended):**
    ```sh
